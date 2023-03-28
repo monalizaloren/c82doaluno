@@ -51,6 +51,6 @@ var lastPositionX, lastPositionY;
 
 
 // Função quando o botão de limpar área for clicado
-function clearArea() {
+function ???() {
     ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
 }
